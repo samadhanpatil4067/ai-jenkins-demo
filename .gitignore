@@ -49,9 +49,9 @@ htmlcov/
 .env.local
 
 # Logs
-*.log
-logs/
-log/
+#*.log
+#logs/
+#log/
 
 # Database
 *.db
